@@ -16,15 +16,18 @@ int main()
    cout << f1 << endl;
    f1 = (f1 * 3);
    cout << f1 << endl;
+   // inmatning i programmet
+   int heltal1;
+   cin >> heltal1;
+   cout << heltal1 << endl;
    
-   
-   
-  
-   
-   
-   
-   
-   
+   int tal4, tal2, tal3, tal14;
+   cout << "Mata in 3 tal";
+   cin >> tal4;
+   cin >> tal2;
+   cin >> tal3;
+   tal14=tal1+tal2+tal3;
+   cout << "Summa" << tal14;
    
    return 0;		
 }
