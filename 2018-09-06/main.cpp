@@ -22,12 +22,12 @@ int main()
    cout << heltal1 << endl;
    
    int tal4, tal2, tal3, tal14;
-   cout << "Mata in 3 tal";
+   cout << "Mata in 3 tal" << endl;
    cin >> tal4;
    cin >> tal2;
    cin >> tal3;
    tal14=tal1+tal2+tal3;
    cout << "Summa" << tal14;
    
-   return 0;		
+   return 0;
 }
