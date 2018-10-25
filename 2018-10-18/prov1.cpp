@@ -15,7 +15,7 @@ int main ()
 	
 	    //Uppgift 2
 	    
-	/*float tal1;
+	float tal1;
 	float tal2;
 	float tal3;
 	float tal4;
@@ -27,7 +27,7 @@ int main ()
 	cin >> tal3;
 	cout << "Tack!" << endl;
 	tal4 = tal1 + tal2 + tal3;
-	cout << "Medelvärdet av " << tal1 << " " << tal2 << " och " << tal3 << " är " << fixed << setprecision(1) << tal4/3 << endl;*/
+	cout << "Medelvärdet av " << tal1 << ", " << tal2 << " och " << tal3 << " är " << fixed << setprecision(1) << tal4/3 << endl;
 	
 	    //Uppgift 3
 	    
@@ -36,7 +36,7 @@ int main ()
 	    //Uppgift 4
 	    
 	    
-	int Timmar;
+	/*int Timmar;
 	int Minuter;
 	int Sekunder;    
 	cout << "Mata in ett antal timmar, minuter och sekunder (använd heltal)" << endl;
@@ -48,7 +48,7 @@ int main ()
 	cin >> Sekunder;
 	//Timmar = Minuter / 60;
 	//Minuter = Sekunder / 60;
-	cout << "Den inmatade tiden motsvarar " << Timmar << " Timmar, " << endl;          
+	cout << "Den inmatade tiden motsvarar " << Timmar << " Timmar, " << endl;*/          
 	
 	
 	
