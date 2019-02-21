@@ -24,6 +24,37 @@ int main ()
 	}
 	*/
 	
+	int r = 69;
+	int s;
+	int f=0;
+	
+	while (s < r || s > r)
+	{
+		cout << "gissa" << endl;
+		cin >> s;
+		
+		if (s < r) {
+			f++;
+			cout << "för litet" << endl;
+		}
+		
+		else if (s > r) {
+			f++;
+			cout << "för stort" << endl;
+		}
+		
+		else if (s == r) {
+			f++;
+			cout << "Grattis " << f << " försök" << endl;
+			
+		}
+	}
+	
+	
+	
+	
+	
+	
 	
       return 0;
 }
